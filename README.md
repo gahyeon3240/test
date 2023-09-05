@@ -62,10 +62,14 @@ df.head()
 ### 2.1 구글
 * [Vision API](https://cloud.google.com/vision?hl=ko)
 * 이미지 크기 조정 불가
-![img.png](img.png)(./vision_api_logo.png)
+![vision_api_log](https://community.appinventor.mit.edu/uploads/default/optimized/3X/2/a/2ad031bc25a55c4d3f55ff5ead8b2de63cdf28bf_2_200x178.png)
 * 이미지 크기 조절 가능
 <p align="center">
-<img scr="./img.png" width="200"/>
+<img src="./vision_api_logo.png" width="200"/>
 </p>
-* Vision API는 특정 이미지를 인식하여 분류기능을 하는 인공지능 API이다.
+
+  * Vision API는 특정 이미지를 인식하여 분류기능을 하는 인공지능 API이다.
+
 ### 2.2 네이버
+## 3. 프로젝트 1에서 활용해 볼 API 선정
+***
